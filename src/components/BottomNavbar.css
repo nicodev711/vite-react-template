@@ -1,0 +1,15 @@
+.bottom-navbar {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    background-color: beige;
+    padding: 15px 0;
+}
+
+.nav-button {
+    background-color: transparent;
+    border: none;
+}
